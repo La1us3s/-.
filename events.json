@@ -1,0 +1,23 @@
+[
+  {
+    "name": "octocat/Hello-World",
+    "url": "https://github.com/octocat/Hello-World",
+    "description": "A first repository for trying out GitHub.",
+    "language": "Markdown",
+    "starredAt": "2025-01-14"
+  },
+  {
+    "name": "microsoft/TypeScript",
+    "url": "https://github.com/microsoft/TypeScript",
+    "description": "TypeScript is a strongly typed programming language that builds on JavaScript.",
+    "language": "TypeScript",
+    "starredAt": "2025-02-02"
+  },
+  {
+    "name": "vercel/next.js",
+    "url": "https://github.com/vercel/next.js",
+    "description": "The React framework for the web.",
+    "language": "JavaScript",
+    "starredAt": "2025-03-19"
+  }
+]
